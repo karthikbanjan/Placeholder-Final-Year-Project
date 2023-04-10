@@ -8,7 +8,7 @@ function ThankYouPage() {
       <FaCheckCircle size={72} className="text-success mb-3" />
       <h1 className="mb-3">Thank You!</h1>
       <p className="lead mb-5">
-        Your evidence has been received. Together, we can build peaceful society.
+        Your evidence has been received. Together We Can Create a Safer Community.
       </p>
       <Row>
         <Col md={{ span: 6, offset: 3 }}>
